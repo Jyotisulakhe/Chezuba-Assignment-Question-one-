@@ -1,4 +1,4 @@
-# Increment Number
+# Increment Number by One
 
 ## Description
 
