@@ -10,4 +10,10 @@ This Java program takes an array of digits that represents a non-negative intege
 - Handles the conversion between arrays of digits and integers.
 - Efficiently increments the integer by one and returns the result as an array of digits.
 
+## Example 
+### Input
+digits = [1, 2, 3];
 
+
+### Output
+[1, 2, 4]
